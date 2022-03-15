@@ -16,7 +16,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/NeAlien/Laba2.git
 git push -u origin master
 ```
-задание №3
+Задание №3
 ```
 cat > "Hello_world.cpp" << EOF
 #include <iostream>
