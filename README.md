@@ -63,3 +63,97 @@ git push -u origin master
 ```
 
 ## Part II
+Задание №1
+```
+git checkout -b patch1
+```
+Задание №2
+```
+edit "Hello world.cpp"
+#include <iostream>
+#include <string>
+ 
+int main(int argc, char** argv){
+ string name;
+ std::cin >> name;
+ std::cout << "Hello world from " << name << std::endl;
+}
+```
+Задание №3
+```
+git commit -a -m "Fixed cpp file"
+git push -u origin patch1
+```
+Задание №4
+```
+
+```
+Задание №5
+```
+
+```
+Задание №6
+```
+
+```
+Задание №7
+```
+
+```
+Задание №8
+```
+
+```
+Задание №9
+```
+
+```
+Задание №10
+```
+
+```
+Задание №11
+```
+
+```
+Задание №12
+```
+
+```
+## Part III
+Задание №1
+```
+
+```
+Задание №2
+```
+
+```
+Задание №3
+```
+
+```
+Задание №4
+```
+
+```
+Задание №5
+```
+
+```
+Задание №6
+```
+
+```
+Задание №7
+```
+
+```
+Задание №8
+```
+
+```
+Задание №9
+```
+
+```
