@@ -159,6 +159,7 @@ int main(int argc, char** argv){
 Задание №5
 ```
 Убеждаемся, что в pull-request появились конфликтны.
+![alt text](~/Downloads/Telegram Desktop/photo_2022-03-28_23-51-23 "описание")
 ```
 Задание №6
 ```
