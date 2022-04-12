@@ -38,7 +38,7 @@ git commit -m "Added new cpp file"
 Задание №6
 ```
 alias edit=nano
-edit "Hello world.cpp"
+edit "Hello_world.cpp"
  #include <iostream>
  #include <string>
  
