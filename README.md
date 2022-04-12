@@ -9,7 +9,7 @@ https://github.com/NeAlien/Laba2
 ```
 mkdir Laba2
 cd Laba2
-echo "# timp-lab-02" >> README.md
+echo "# Laba2" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
