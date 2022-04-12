@@ -164,7 +164,7 @@ int main(int argc, char** argv){
 ```
 git pull origin master
 git rebase master
-edit "Hello world.cpp"
+edit "Hello_world.cpp"
 git commit -a -m "Update Hello world.cpp"
 git rebase --continue
 ```
